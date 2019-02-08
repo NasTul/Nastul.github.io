@@ -58,4 +58,4 @@ error:src refspec master does not match any
 
 `git push origin master`
 
-<div id="gitalk-container"></div>
+
