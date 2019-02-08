@@ -1,7 +1,7 @@
 # Site settings
 title: Nastul's Blog
 SEOTitle: Nastul Lin Li | Nastul's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg.jpg
 email: melnastul@gmail.com
 description: "we coding design and change the world."
 keyword: "Nastul, Nastul's Blog, LinLi, LiLin, 李霖, Python,Machine Leaning, Apple, Alienware"
@@ -12,7 +12,7 @@ github_repo: "https://github.com//NasTul/Nastul.github.io.git" # you code reposi
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "we coding design and change the world."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-nastul-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     nastul
 github_username:    nastul
 facebook_username:  nastul
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
