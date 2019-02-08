@@ -1,15 +1,16 @@
 ---
 layout:     post
 title:      "Welcome to Nastul's Blog"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"Hello Coding, Hello World \""
 date:       2017-01-04 22:00:00
 author:     "Nastul"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
 ---
-> “It. ”
-
+> “Cs. ”
+> 
+Update -08/02/2019 
 
 ## 前言
 
@@ -19,8 +20,8 @@ tags:
 <br>
 
 ---
-使用了HUX的模板
-`git clone git@github.com:Huxpro/huxblog-boilerplate.git`<br>
+使用了qiubaiying的模板
+`git clone git@github.com:qiubaiying/qiubaiying.github.io.git`<br>
 
 
 jeykll文档
