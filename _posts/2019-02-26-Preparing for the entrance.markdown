@@ -16,4 +16,4 @@ Update -26/02/2019
 
 选了四门必修 Knowledge Technologies、Declarative Programming、Distributed Systems、Research Methods. 下学期修个 AI，ML, Stream Computing and Applications, 
 
-![avatar](img/studentcard.jpg)
+![](http://ww1.sinaimg.cn/large/a75df9b2ly1g0jvzbj0mwj20u0140gng.jpg)
