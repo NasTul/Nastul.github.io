@@ -4,7 +4,7 @@ title:      "Preparing for the entrance"
 subtitle:   " \"After enroll \""
 date:       2019-02-26 18:00:00
 author:     "Nastul"
-header-img: http://ww1.sinaimg.cn/large/a75df9b2ly1g0jw4rjfuuj21eo0cqgvg.jpg
+header-img: "img/computerscience.png"
 tags:
     - Life
 ---
