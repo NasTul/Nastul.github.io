@@ -132,4 +132,4 @@ concurrent environment.<br>
 
 
 # reference #
-Dollimore, J., Kindberg, T., & Coulouris, G. (2005). Distributed systems: Concepts and design.
+Dollimore, J., Kindberg, T., & Coulouris, G. (2005). Distributed systems: Concepts and design
