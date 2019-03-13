@@ -74,3 +74,71 @@ A Single assignment
 
     let pi = 3.1415 in ...
 	len (x:xs) = 1 + len xs
+
+
+----------
+
+# Part two #
+
+ghci Haskell的解释器
+
+:let 赋值<br>
+:load 加载hs 文件<br>
+:t type<br>
+:set 设置<br>
+++ 链接 list
+
+**Function Types**
+
+isEmpty [] = Ture<br>
+isEmpty (_:_) = False<br>
+( _ is a special pattern that matches anything.)
+
+
+isEmpty :: [t] -> Bool
+
+isEmpty _ = False<br>
+
+Programmers should declare the type of each function. The syntax for this is similar to the notation printed by ghci: the function name, a double colon, and the type.<br>
+Declaring the type of functions is required only by good programming style. The Haskell implementation will infer the types of functions if not declared.
+
+
+
+Number types -  Num class
+
+
+**if-then-else**<br>
+
+--definition A<br>
+    iota n = if n == 0 then [] else iota (n-1) ++ [n]
+
+**Guards**<br>
+
+--definition B<br>
+
+	iota n
+		| n == 0 =[]
+		| n > 0 = iota (n-1) ++ [n]
+
+
+**Structured definitions**
+--definition C<br>
+
+	iota n =
+		if n == 0
+		then
+			[]
+		else
+			iota (n-1) ++ [n]
+
+
+
+**Parametric polymorphism**
+
+
+**Type definitions**<br>
+data Gender = Female | Male<br>
+data Role = Staff | Student
+
+
+| show  |   Eq    |    Ord   |
