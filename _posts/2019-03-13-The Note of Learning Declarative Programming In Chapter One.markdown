@@ -16,7 +16,7 @@ This is note from Declarative Programming、 Haskell
 
 ## **1.Why Declarative Programming** <br>
 **definition:**<br> 
-This programming language focuses on the rpoblem you're trying to solve.
+This programming language focuses on the problem you're trying to solve.
 
 Rather than how you get it. you say this is what's the answer look like.   what is to be done rather than how. 
 
