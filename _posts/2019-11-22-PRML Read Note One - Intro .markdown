@@ -45,8 +45,19 @@ RMS 根均方误差：<a href="https://www.codecogs.com/eqnedit.php?latex=E_{RMS
 
 hold-out set /  validation set 会浪费训练集，所以需要考虑其他的方法去验证
 
-###  概率论基础  ###
+###  概率论基础 Probability  ###
 
+Joint Probability  p(x,y)<br>
+conditional probability:  p(x|y)<br>
+independent: p(x,y)=p(x)p(y)<br>
+sum rule:<a href="https://www.codecogs.com/eqnedit.php?latex=p(x)=\sum&space;_{y}p(x,y)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x)=\sum&space;_{y}p(x,y)" title="p(x)=\sum _{y}p(x,y)" /></a>
+
+product rule:<a href="https://www.codecogs.com/eqnedit.php?latex=p(x,y)=p(y|x)p(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(x,y)=p(y|x)p(x)" title="p(x,y)=p(y|x)p(x)" /></a>
+
+bayes' theorm: <a href="https://www.codecogs.com/eqnedit.php?latex=p(y|x)=\frac{p(x|y)p(y)}{p(x)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(y|x)=\frac{p(x|y)p(y)}{p(x)}" title="p(y|x)=\frac{p(x|y)p(y)}{p(x)}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum&space;_y&space;p(x|y)p(y)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum&space;_y&space;p(x|y)p(y)}" title="p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum _y p(x|y)p(y)}" /></a>
+
+p.d.f ------ c.d.f
 
 
 
