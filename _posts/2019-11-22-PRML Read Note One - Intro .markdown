@@ -39,11 +39,17 @@ I studied statistical machine learning this semester. But a lot of knowledge is 
 <br>是MLE的特殊情况， 它的一次导数是线性的，所以最小值有一个唯一的解 w*
 
 RMS 根均方误差：<a href="https://www.codecogs.com/eqnedit.php?latex=E_{RMS}=\sqrt{2E(w^{*})/N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E_{RMS}=\sqrt{2E(w^{*})/N}" title="E_{RMS}=\sqrt{2E(w^{*})/N}" /></a><br> N是为了用相同的基数去对比不同大小的数据集，平方根保证了它与目标变量t使用相同的规模和单位进行度量
-<a href="https://www.codecogs.com/eqnedit.php?latex=&plus;\left&space;\|w&space;\right&space;\|^{2}_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?&plus;\left&space;\|w&space;\right&space;\|^{2}_{2}" title="+\left \|w \right \|^{2}_{2}" /></a> 是误差项， ridge , 
+<a href="https://www.codecogs.com/eqnedit.php?latex=&plus;\left&space;\|w&space;\right&space;\|^{2}_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?&plus;\left&space;\|w&space;\right&space;\|^{2}_{2}" title="+\left \|w \right \|^{2}_{2}" /></a> 是误差项， ridge  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;\|w&space;\right&space;\|^{2}_{2}&space;=&space;w^{T}w=w_{0}^{2}&plus;w_{1}^{2}&plus;w_{2}^{2}&plus;...&plus;w_{M}^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;\|w&space;\right&space;\|^{2}_{2}&space;=&space;w^{T}w=w_{0}^{2}&plus;w_{1}^{2}&plus;w_{2}^{2}&plus;...&plus;w_{M}^{2}" title="\left \|w \right \|^{2}_{2} = w^{T}w=w_{0}^{2}+w_{1}^{2}+w_{2}^{2}+...+w_{M}^{2}" /></a>
 <br> shrinkage 收缩方法减小系数的值， 在神经网络中也被叫做 weight decay 权值衰减.
 
 hold-out set /  validation set 会浪费训练集，所以需要考虑其他的方法去验证
+
+###  概率论基础  ###
+
+
+
+
 
 
 
