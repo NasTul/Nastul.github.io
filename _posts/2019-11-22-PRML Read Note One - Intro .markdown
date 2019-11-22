@@ -16,21 +16,24 @@ I studied statistical machine learning this semester. But a lot of knowledge is 
 
 
 > 正确分类新样本的能力叫做泛化（generalization) 中心问题
-
+>
 >pre-processed 原始输入向量映射到新的空间 -> 让问题更容易解，有时这个过程也叫做特征提取  feature extraction
-
+>
 >为了加速计算，有时也会需要进行预处理去找到有用的特征
-
+>
 >每个输入向量分配到有限个离散的标签是分类问题 classification
-
+>
 >输出由一个或者多个连续变量组成是回归问题  regression
-
+>
 >unsupervised learning  -  clustering  - density estimation (其实就是求参数分布)  -  visualization 
-
+>
 >supervised learning - 输入向量对应到标签向量
-
+>
 >reinforcement learning  通过选择动作，使得获得的奖励最大化， 这中间设计两个事件的平衡， exploration and exploitation
-
+>
+>超参数是控制模型参数分布的参数
+>
+>验证集小的时候可以使用交叉验证， cross validation 但是会带来训练次数增加和参数探索次数增加的问题
     
 
 多项式曲线拟合： 
@@ -58,7 +61,7 @@ bayes' theorm: <a href="https://www.codecogs.com/eqnedit.php?latex=p(y|x)=\frac{
 <a href="https://www.codecogs.com/eqnedit.php?latex=p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum&space;_y&space;p(x|y)p(y)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum&space;_y&space;p(x|y)p(y)}" title="p(y|x)=p(x,y)/p(x)=\frac{p(x|y)p(y)}{p(x)}=\frac{p(x|y)p(y)}{\sum _y p(x|y)p(y)}" /></a>
 
 p.d.f ------ c.d.f
-
+![avatar](/img/fullsizerender1.jpg)
 
 
 
