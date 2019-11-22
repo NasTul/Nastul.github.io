@@ -2,7 +2,7 @@
 layout:     post
 title:      "PRML READ NOTE ONE - Introduction"
 subtitle:   " \"Hello Coding, Hello World \""
-date:       2019-11-22 22:53:00
+date:       2019-11-22 23:35:00
 author:     "Nastul"
 header-img: "img/prml1.jpg"
 tags:
@@ -23,7 +23,8 @@ supervised learning - 输入向量对应到标签向量<br>
 reinforcement learning  通过选择动作，使得获得的奖励最大化， 这中间设计两个事件的平衡， exploration and exploitation<br>
 
 
-多项式曲线拟合： \[y(x,w)=\sum ^M _{j=0}w_{j}x^{j}\]
+多项式曲线拟合： <br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=y(x,w)=\sum&space;^M&space;_{j=0}w_{j}x^{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y(x,w)=\sum&space;^M&space;_{j=0}w_{j}x^{j}" title="y(x,w)=\sum ^M _{j=0}w_{j}x^{j}" /></a>
 
 
 
