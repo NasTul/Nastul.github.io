@@ -76,7 +76,7 @@ TF-IDF Representation<br>
 TF表示对更频繁的单词进行加权，IDF表示惩罚常见的符号，并奖励向量表示中的罕见符号。<br>
 TF-IDF分数就是TF(w) * IDF(w)的乘积。<br>
 
-![avatar](/img/_20191123174604.png)
+![avatar](/img/20191123174604.png)
 
 Calculate the similarity between the query pseudodocument
 and each document in the collection<br>
@@ -97,7 +97,7 @@ Rank documents by decreasing similarity with cosine<br>
 Entropy H:<a href="https://www.codecogs.com/eqnedit.php?latex=H(T)=-\sum&space;\frac{f_{s}}{n}log_{2}\frac{f_{s}}{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H(T)=-\sum&space;\frac{f_{s}}{n}log_{2}\frac{f_{s}}{n}" title="H(T)=-\sum \frac{f_{s}}{n}log_{2}\frac{f_{s}}{n}" /></a>
 where fs is the frequency of symbol s in T and n is the length of T.
 
-![avatar](/img/_20191123193419.png)
+![avatar](/img/20191123193419.png)
 
 **WAND**
 
