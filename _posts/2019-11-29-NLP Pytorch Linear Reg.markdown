@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "NLP With Pytorch Note Two"
+title:      "NLP Pytorch Linear Reg"
 subtitle:   " \"Traditional NLP\""
 date:       2019-11-30 15:20:00
 author:     "Nastul"
