@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "记录 - Basic Python "
+title:      "记录 - Basic Python"
 subtitle:   " \"Traditional NLP\""
 date:       2019-12-19 00:11:00
 author:     "Nastul"
