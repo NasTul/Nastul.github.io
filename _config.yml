@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/lin.png"
-  bio              : "Swinburne University"
+  bio              : "Research Fellow"
   location         : "Melbourne, Au"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "RMIT University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKIV3Y8AAAAJ"
-  email            : "linli@swin.edu.au"
+  email            : "lin.li@rmit.edu.au"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
