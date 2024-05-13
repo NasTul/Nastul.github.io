@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Li"
-description              : "Cybersecurity, Biometrics, LLM"
+description              : "Research Fellow at RMIT Enterprise AI and Data Analytics Hub. Focusing on Cybersecurity, Biometrics and LLM"
 repository               : "Nastul/Nastul.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/lin.png"
-  bio              : "Research Fellow"
+  bio              : "RMIT University"
   location         : "Melbourne, Au"
-  employer         : "RMIT University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKIV3Y8AAAAJ"
   email            : "lin.li@rmit.edu.au"
@@ -44,7 +44,7 @@ author:
   # impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "lin-li-06421a114"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/73/2252-66.html"
   orcid            : "https://orcid.org/0000-0001-7497-9002"
   pinterest        :
   soundcloud       :
