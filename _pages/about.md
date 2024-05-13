@@ -79,7 +79,7 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 - The 5th International Conference on Science of Cyber Security (SciSec) 2023
 
 ### Competition, Awards & Honor
-- ARC Discovery Project Scholarship                     01/2021-present
+- ARC Discovery Project Scholarship                     01/2021-01/2024
 - [Hunan University HuaZhong Hackathon Rank #2](https://portfolio.justzht.com/areco/)	          05/2018
 - Mathematical Contest in Modeling (Honorable Mention)	01/2017
 
