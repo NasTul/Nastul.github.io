@@ -33,9 +33,11 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 
 
 ---
--	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang,Jun Zhang, Yang Xiang, 2023, SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display, Accepted by the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)- (CORE A, CCF B, Acceptance rate:23%)
--	`Lin Li`, Chao Chen, Lei Pan, Yonghang Tai,Jun Zhang, Yang Xiang, 2023, Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication, Accepted by European Symposium on Research in Computer Security (ESORICS)- (CORE A, CCF B, Acceptance rate:18.5%)
--	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang, Zhifeng Wang, Jun Zhang, Yang Xiang, 2023, A Survey of PPG's Application in Authentication, Accepted by Computer & Security (COSE)- (CORE B, CCF B, IF:5.6, SJR: Q1)
+-	Wei Wang, `Lin Li`, Shavindra Wickramathilaka, John Grundy, Hourieh Khalajzadeh, Humphrey O. Obie and Anuradha Madugalla, 2024, Development of an Adaptive User Support System Based on Multimodal Large Language Models, IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)- (CORE B)
+-	Fusen Guo, Huadong Mo, Jianzhang Wu, Lei Pan, Hailing Zhou, Zhibo Zhang, `Lin Li`, Fengling Huang, 2024, A Hybrid Stacking Model for Enhanced Short-Term Load Forecasting, Electronics - (SJR: Q2)
+-	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang, Jun Zhang, Yang Xiang, 2023, SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display, The 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)- (CORE A, CCF B, Acceptance rate:23%)
+-	`Lin Li`, Chao Chen, Lei Pan, Yonghang Tai, Jun Zhang, Yang Xiang, 2023, Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication, European Symposium on Research in Computer Security (ESORICS)- (CORE A, CCF B, Acceptance rate:18.5%)
+-	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang, Zhifeng Wang, Jun Zhang, Yang Xiang, 2023, A Survey of PPG's Application in Authentication, Computer & Security (COSE)- (CORE B, CCF B, IF:5.6, SJR: Q1)
 -	`Lin Li`, Chao Chen, Lei Pan, Jun Zhang, Yang Xiang, 2023, SigD: A Cross-Session Dataset for PPG-based User Authentication in Different Demographic Groups, In International Joint Conference on Neural Networks (IJCNN)- (CORE B, CCF C)
 -	`Lin Li`, Chao Chen, Lei Pan, Jun Zhang, Yang Xiang, 2022, Video is All You Need: Attack-ing PPG-based Biometric Authentication, In Proceedings of the 15th ACM Conference on Computer and Communications Security (CCS) Workshop on Artificial Intelligence and Security (AISec)
 -	Hongwei Wei, Guanjun Lin, `Lin Li`, Heming Jia, 2021, A Context-Aware Neural Embedding for Function-Level Vulnerability Detection, Algorithms.
