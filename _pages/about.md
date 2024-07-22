@@ -56,6 +56,7 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 # 🏛️ SERVICES 
 
 ### External Reviewer
+- The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)                    2024
 - Conference on Neural Information Processing Systems (NeurIPS)                   2023,2024
 - The Forty-first International Conference on Machine Learning (ICML)                  2024
 - The International Conference on Learning Representations (ICLR)                      2024
