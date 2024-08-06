@@ -46,11 +46,11 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
-
-- Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- present
+- Teaching Assistant, RMIT University, 07/2024-present
+- Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- 07/2024
 - Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- 12/2023
 - Course Developer, ICT30016, Swinburne University of Technology, 02/2023- 07/2023
-- Teaching Assistant, Swinburne University of Technology & Swinburne Online, 01/2022- present
+- Teaching Assistant, Swinburne University of Technology & Swinburne Online, 01/2022- 07/2024
 
 <span class='anchor' id='-services'></span>
 # 🏛️ SERVICES 
@@ -73,6 +73,7 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 - Swinburne University of Technology Course No. CYB80008 Reverse Engineering Project （Hawthorn Campus）   04/2021
 
 ### Services
+- RMIT Open Day 2024
 - RMIT Generative AI for Business: A Hands-on Workshop
 - The Fifth International Conference on Machine Learning for Cyber Security (Session Chair)
 - Swinburne Open Day 2022,2023
