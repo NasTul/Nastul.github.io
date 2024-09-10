@@ -58,7 +58,8 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 - 2024: [AusDM](https://ausdm24.ausdm.org/Organizing%20Committee.html) (Local Organising Chair) 
 
 ### Program Committee Member / Reviewer
-- 2024: AAAI, NeurIPS, ICML, ICLR, IJCNN
+- 2025: AAAI, ICLR
+- 2024: NeurIPS, ICML, ICLR, IJCNN
 - 2023: NeurIPS, CVPR, 
 - 2022: ECCV
 - IEEE Transactions on Information Forensics & Security (TIFS)
