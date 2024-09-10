@@ -54,16 +54,16 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 
 <span class='anchor' id='-services'></span>
 # 🏛️ SERVICES 
+### Organising Committee
+- 2024: [AusDM](https://ausdm24.ausdm.org/Organizing%20Committee.html) (Local Organising Chair) 
 
-### External Reviewer
-- The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)                    2024
-- Conference on Neural Information Processing Systems (NeurIPS)                   2023,2024
-- The Forty-first International Conference on Machine Learning (ICML)                  2024
-- The International Conference on Learning Representations (ICLR)                      2024
-- The International Joint Conference on Neural Networks (IJCNN) as TPC Reviewer        2024
-- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)             2023
-- European Conference on Computer Vision (ECCV)                                        2022 
+### Program Committee Member / Reviewer
+- 2024: AAAI, NeurIPS, ICML, ICLR, IJCNN
+- 2023: NeurIPS, CVPR, 
+- 2022: ECCV
 - IEEE Transactions on Information Forensics & Security (TIFS)
+- Computer & Security
+- World Wide Web: Internet and Web Information Systems (WWW), Springer
 - Annals of Telecommunications, Springer
 - Journal of Ambient Intelligence and Humanized Computing, Springer
 
@@ -73,8 +73,8 @@ Currently, I'm a research fellow at RMIT University. I received my Ph.D. degree 
 - Swinburne University of Technology Course No. CYB80008 Reverse Engineering Project （Hawthorn Campus）   04/2021
 
 ### Services
-- RMIT Open Day 2024
-- RMIT Generative AI for Business: A Hands-on Workshop
+- [RMIT Open Day 2024](https://github.com/NasTul/Nastul.github.io/blob/master/images/OD24_Certificate_Lin%20Li.pdf)
+- [RMIT Generative AI for Business: A Hands-on Workshop](https://rmit-aihub.org.au/generative-ai-for-business-a-hands-on-workshop/)
 - The Fifth International Conference on Machine Learning for Cyber Security (Session Chair)
 - Swinburne Open Day 2022,2023
 - Study Swinburne Expo 2023
