@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Li"
-description              : "Lecturer at Southern Cross University. Focusing on Cybersecurity, Biometrics, Healthcare and LLM"
+description              : "Focusing on Cybersecurity, Biometrics, Healthcare and LLM"
 repository               : "Nastul/Nastul.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/personalimg.png"
-  bio              : 
+  bio              : "Lecturer"
   employer         : "Southern Cross University"
   location         : "Glod Coast, Au"
   pubmed           : 
