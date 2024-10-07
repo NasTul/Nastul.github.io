@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Li"
-description              : "Research Fellow at RMIT Enterprise AI and Data Analytics Hub. Focusing on Cybersecurity, Biometrics and LLM"
+description              : "Lecturer at Southern Cross University. Focusing on Cybersecurity, Biometrics, Healthcare and LLM"
 repository               : "Nastul/Nastul.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/lin.png"
-  bio              : "RMIT University"
-  location         : "Melbourne, Au"
+  bio              : "Southern Cross University"
+  location         : "Glod Coast, Au"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKIV3Y8AAAAJ"
-  email            : "lin.li@rmit.edu.au"
+  email            : "lin.li@scu.edu.au"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
