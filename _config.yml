@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/personalimg.png"
-  bio              : "Southern Cross University"
+  bio              : 
   location         : "Glod Coast, Au"
-  employer         : 
+  employer         : "Southern Cross University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKIV3Y8AAAAJ"
   email            : "lin.li@scu.edu.au"
