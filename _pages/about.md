@@ -59,7 +59,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - 2024: [AusDM](https://ausdm24.ausdm.org/Organizing%20Committee.html) (Local Organising Chair) 
 
 ### Program Committee Member / Reviewer
-- 2025: AAAI, ICLR
+- 2025: AAAI, ICLR, PAKDD (meta-reviewer)
 - 2024: NeurIPS, ICML, ICLR, IJCNN
 - 2023: NeurIPS, CVPR, 
 - 2022: ECCV
