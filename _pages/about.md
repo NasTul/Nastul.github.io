@@ -47,6 +47,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
+- Lecturer, PROG5001 Fundamentals of Programming (2024-T5), ISYS6004 Computer Forensics (2025-T1), INFO6001 Blockchain Technology and Applications (2025-T3),Southern Cross University, 10/2024- Present
 - Teaching Assistant, RMIT University, 07/2024-10/2024
 - Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- 07/2024
 - Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- 12/2023
@@ -59,7 +60,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - 2024: [AusDM](https://ausdm24.ausdm.org/Organizing%20Committee.html) (Local Organising Chair) 
 
 ### Program Committee Member / Reviewer
-- 2025: AAAI, ICLR, PAKDD (meta-reviewer)
+- 2025: AAAI, ICLR, PAKDD (meta-reviewer), The Web Conference (www)
 - 2024: NeurIPS, ICML, ICLR, IJCNN
 - 2023: NeurIPS, CVPR, 
 - 2022: ECCV
