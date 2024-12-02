@@ -64,6 +64,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - 2024: NeurIPS, ICML, ICLR, IJCNN
 - 2023: NeurIPS, CVPR, 
 - 2022: ECCV
+- IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
 - Computer & Security
 - World Wide Web: Internet and Web Information Systems (WWW), Springer
