@@ -33,7 +33,8 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
-- Zeming Yao, `Lin Li`, Leo Yu Zhang, Fusen Guo, Chao Chen, Jun Zhang, 2024, Deceptive Waves: Embedding Malicious Backdoors in PPG Authentication, International Conference on Web Information Systems Engineering (WISE) - (CORE B)
+- Wei Zhou, Xiaogang Zhu, Qing-Long Han, `Lin Li`, Xiao Chen, Sheng Wen, Yang Xiang, 2024, The Security of Using Large Language Models - A Survey with Emphasis on ChatGPT, IEEE/CAA Journal of Automatica Sinica–(SJR: Q1, IF: 15.3)
+- Zeming Yao, `Lin Li`, Leo Yu Zhang, Fusen Guo, Chao Chen, Jun Zhang, 2024, Deceptive Waves: Embedding Malicious Backdoors in PPG Authentication, International Conference on Web Information Systems Engineering (WISE)-(CORE B)
 - Di Wu, Fusen Guo, Zeming Yao, Di Zhu, Zhibo Zhang, `Lin Li`, Xiaoyi Du, Jun Zhang, 2024, Enhancing Reliability and Performance of Load Frequency Control in Aging Multi-Area Power Systems under Cyber-Attacks, Applied Sciences–(JCR: Q1)
 -	Wei Wang, `Lin Li`, Shavindra Wickramathilaka, John Grundy, Hourieh Khalajzadeh, Humphrey O. Obie and Anuradha Madugalla, 2024, Development of an Adaptive User Support System Based on Multimodal Large Language Models, IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)- (CORE B)
 -	Fusen Guo, Huadong Mo, Jianzhang Wu, Lei Pan, Hailing Zhou, Zhibo Zhang, `Lin Li`, Fengling Huang, 2024, A Hybrid Stacking Model for Enhanced Short-Term Load Forecasting, Electronics - (SJR: Q2)
