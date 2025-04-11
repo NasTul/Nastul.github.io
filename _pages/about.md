@@ -33,6 +33,8 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
+- Bonan Zhang, `Lin Li`, Chao Chen, Ickjai Lee, Kyungmi Lee, Tianqing Zhu, Kok-Leong Ong, 2025, A novel dictionary attack on ECG authentication system using adversarial optimization and clustering, Knowledge-Based Systems (SJR: Q1, IF: 7.2).
+- Shigang Liu, `Lin Li`, Xinbo Ban, Chao Chen, Jun Zhang, Seyit Camtepe, Yang Xiang, 2025, Automatic Software Vulnerability Detection in Binary Code, Machine Learning for Cyber Security: 6th International Conference (ML4CS)
 - Wei Zhou, Xiaogang Zhu, Qing-Long Han, `Lin Li`, Xiao Chen, Sheng Wen, Yang Xiang, 2024, The Security of Using Large Language Models - A Survey with Emphasis on ChatGPT, IEEE/CAA Journal of Automatica Sinica–(SJR: Q1, IF: 15.3)
 - Zeming Yao, `Lin Li`, Leo Yu Zhang, Fusen Guo, Chao Chen, Jun Zhang, 2024, Deceptive Waves: Embedding Malicious Backdoors in PPG Authentication, International Conference on Web Information Systems Engineering (WISE)-(CORE B)
 - Baohai Wang, Youyang Qu, Longxiang Gao, Conggai Li, `Lin Li`, David Smith, 2024, Mitigating Over-Unlearning in Machine Unlearning with Synthetic Data Augmentation, Algorithms and Architectures for Parallel Processing, (CCF C)
