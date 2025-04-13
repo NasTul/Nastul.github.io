@@ -71,6 +71,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - 2022: ECCV
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - Computer & Security
 - World Wide Web: Internet and Web Information Systems (WWW), Springer
 - Annals of Telecommunications, Springer
