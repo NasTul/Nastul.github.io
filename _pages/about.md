@@ -33,6 +33,8 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
+- Ding Xu, Shun Yu, Jingxuan Zhou, Fusen Guo, `Lin Li`, Jishizhan Chen, 2025, Multi-scale prototype convolutional network for few-shot semantic segmentation,PLOS one (SJR: Q1)
+- Shun Yu, Zi Li, Jialin Gu, Runpu Wang, Xiaoyu Liu, `Lin Li`, Fusen Guo, Yuheng Ren,2025, CWMS-GAN: A small-sample bearing fault diagnosis method based on continuous wavelet transform and multi-size kernel attention mechanism, PLOS one (SJR: Q1)
 - Bonan Zhang, `Lin Li`, Chao Chen, Ickjai Lee, Kyungmi Lee, Tianqing Zhu, Kok-Leong Ong, 2025, A novel dictionary attack on ECG authentication system using adversarial optimization and clustering, Knowledge-Based Systems (SJR: Q1, IF: 7.2).
 - Shigang Liu, `Lin Li`, Xinbo Ban, Chao Chen, Jun Zhang, Seyit Camtepe, Yang Xiang, 2025, Automatic Software Vulnerability Detection in Binary Code, Machine Learning for Cyber Security: 6th International Conference (ML4CS)
 - Wei Zhou, Xiaogang Zhu, Qing-Long Han, `Lin Li`, Xiao Chen, Sheng Wen, Yang Xiang, 2024, The Security of Using Large Language Models - A Survey with Emphasis on ChatGPT, IEEE/CAA Journal of Automatica Sinica–(SJR: Q1, IF: 15.3)
