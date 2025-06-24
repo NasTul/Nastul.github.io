@@ -75,13 +75,14 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Sensors Journal
 - Computer & Security
 - World Wide Web: Internet and Web Information Systems (WWW), Springer
 - Annals of Telecommunications, Springer
 - Journal of Ambient Intelligence and Humanized Computing, Springer
 
 ### Invited Talks                
-- INTI University（Malaysia） Cyber Security - New Challenges to Students.                                10/2022                                                                     
+- INTI University（Malaysia） Cyber Security - New Challenges to Students.                                10/2022                                                       
 - Swinburne University of Technology Course No. COS30015 IT Security (Vietnam Campus)                     05/2022 
 - Swinburne University of Technology Course No. CYB80008 Reverse Engineering Project （Hawthorn Campus）   04/2021
 
