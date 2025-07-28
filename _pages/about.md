@@ -33,6 +33,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
+- Zihan Wang, Zhibo Zhang, Ahmed Y Al Hammadi, Xueting Huang, Fusen Guo, Ernesto Damiani, Chan Yeob Yeun, `Lin Li`, 2025, Evolving Explainable Artificial Intelligence for electroencephalography-based mental health classification in digital twin systems, Ad Hoc Networks (SJR: Q1)
 - Bonan Zhang, `Lin Li`, Chao Chen, Ickjai Lee, Kyungmi Lee, Kok-Leong Ong, 2025, Standardizing the evaluation framework for ECG-based authentication in IoT devices, Computer Communications (SJR: Q1)
 - Ding Xu, Shun Yu, Jingxuan Zhou, Fusen Guo, `Lin Li`, Jishizhan Chen, 2025, Multi-scale prototype convolutional network for few-shot semantic segmentation,PLOS one (SJR: Q1)
 - Shun Yu, Zi Li, Jialin Gu, Runpu Wang, Xiaoyu Liu, `Lin Li`, Fusen Guo, Yuheng Ren,2025, CWMS-GAN: A small-sample bearing fault diagnosis method based on continuous wavelet transform and multi-size kernel attention mechanism, PLOS one (SJR: Q1)
