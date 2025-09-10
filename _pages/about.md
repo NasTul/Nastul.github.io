@@ -98,7 +98,8 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - Mentor a mini-group project at P-TECH 03/2022-12/2023
 - The 5th International Conference on Science of Cyber Security (SciSec) 2023
 
-### Competition, Awards & Honor
+### Grants, Competition, Awards & Honor
+- Involved (CI) in the project 'Health status estimation and resilient closed-loop supply chain for retired electric vehicle batteries', AEA Ignite round 1, Australia, 334,052 AUD
 - ARC Discovery Project Scholarship                     01/2021-01/2024
 - [Hunan University HuaZhong Hackathon Rank #2](https://portfolio.justzht.com/areco/)	          05/2018
 - Mathematical Contest in Modeling (Honorable Mention)	01/2017
@@ -110,4 +111,5 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - *2019.03 - 2020.12*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science), The University of Melbourne
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
