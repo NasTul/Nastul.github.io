@@ -89,6 +89,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - Swinburne University of Technology Course No. CYB80008 Reverse Engineering Project （Hawthorn Campus）   04/2021
 
 ### Services
+- Southern Cross University Open Day 2025
 - [RMIT Open Day 2024](https://github.com/NasTul/Nastul.github.io/blob/master/images/OD24_Certificate_Lin%20Li.pdf)
 - [RMIT Generative AI for Business: A Hands-on Workshop](https://rmit-aihub.org.au/generative-ai-for-business-a-hands-on-workshop/)
 - The Fifth International Conference on Machine Learning for Cyber Security (Session Chair)
@@ -111,5 +112,6 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - *2019.03 - 2020.12*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science), The University of Melbourne
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
