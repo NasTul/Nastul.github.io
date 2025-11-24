@@ -77,6 +77,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Services Computing (TSC)
 - IEEE Sensors Journal
 - Computer & Security
 - World Wide Web: Internet and Web Information Systems (WWW), Springer
@@ -112,6 +113,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - *2019.03 - 2020.12*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science), The University of Melbourne
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
 
