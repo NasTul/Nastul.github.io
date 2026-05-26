@@ -33,6 +33,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
+- Hao Zhou, `Lin Li`, Hua Dai, Geng Yang, Fusen Guo, Chao Chen. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge, 2026, IEEE Transactions on Services Computing.
 - `Lin Li`, Youyang Qu, Jiayang Ao, Ming Ding, Chao Chen, Jun Zhang. Poster: The Art of Deception: Crafting Chimera Images for Covert and Robust Semantic Poisoning Attacks, 2025, the ACM Conference on Computer and Communications Security (CCS).
 - Zihan Wang, Zhibo Zhang, Ahmed Y Al Hammadi, Xueting Huang, Fusen Guo, Ernesto Damiani, Chan Yeob Yeun, `Lin Li`, 2025, Evolving Explainable Artificial Intelligence for electroencephalography-based mental health classification in digital twin systems, Ad Hoc Networks (SJR: Q1)
 - Bonan Zhang, `Lin Li`, Chao Chen, Ickjai Lee, Kyungmi Lee, Kok-Leong Ong, 2025, Standardizing the evaluation framework for ECG-based authentication in IoT devices, Computer Communications (SJR: Q1)
@@ -79,6 +80,8 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 - IEEE Transactions on Information Forensics & Security (TIFS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Services Computing (TSC)
+- IEEE Transactions on Cybernetics
+- IEEE Internet of Things Journal
 - IEEE Sensors Journal
 - Computer & Security
 - World Wide Web: Internet and Web Information Systems (WWW), Springer
