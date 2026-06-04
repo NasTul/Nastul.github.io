@@ -33,6 +33,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 
 
 ---
+- Bonan Zhang, `Lin Li`, Chao Chen, Ickjai Lee, Kyungmi Lee, Tianqing Zhu, Kok-Leong Ong. Cross Signal Attacks Against Cardiovascular Authentication Systems, 2026, IEEE Transactions on Biometrics, Behavior, and Identity Science. 
 - Hao Zhou, `Lin Li`, Hua Dai, Geng Yang, Fusen Guo, Chao Chen. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge, 2026, IEEE Transactions on Services Computing.
 - `Lin Li`, Youyang Qu, Jiayang Ao, Ming Ding, Chao Chen, Jun Zhang. Poster: The Art of Deception: Crafting Chimera Images for Covert and Robust Semantic Poisoning Attacks, 2025, the ACM Conference on Computer and Communications Security (CCS).
 - Zihan Wang, Zhibo Zhang, Ahmed Y Al Hammadi, Xueting Huang, Fusen Guo, Ernesto Damiani, Chan Yeob Yeun, `Lin Li`, 2025, Evolving Explainable Artificial Intelligence for electroencephalography-based mental health classification in digital twin systems, Ad Hoc Networks (SJR: Q1)
