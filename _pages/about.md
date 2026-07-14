@@ -69,6 +69,7 @@ Currently, I'm a Lecturer (Cybersecurity) at Southern Cross University. Prior to
 <span class='anchor' id='-services'></span>
 # 🏛️ SERVICES 
 ### Organising Committee
+- 2026: [DASC](https://cyber-science.org/2026/dasc/organization/) (Publication Chair)
 - 2024: [AusDM](https://ausdm24.ausdm.org/Organizing%20Committee.html) (Local Organising Chair) 
 
 ### Program Committee Member / Reviewer
